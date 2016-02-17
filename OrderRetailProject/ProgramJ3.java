@@ -4,7 +4,7 @@
       retail amounts for a selection of products and
       quantities purchased. This program is the application
       described by Exercise 5.17 on p. 194 of D&D's 9th Edition.
-      Programmed by: Karoline Foster; instructor: Dr. Anwar Ahmad
+      Programmed by: karofos; instructor: Dr. Anwar Ahmad
       Date: April 3, 2015
    */
   
